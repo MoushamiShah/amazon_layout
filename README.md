@@ -1,6 +1,6 @@
 # 🛒 Amazon India Homepage Layout Clone
 
-A static recreation of the Amazon India homepage layout. This project was a “time-pass” exercise built to practice and reinforce fundamental frontend skills.
+A static recreation of the Amazon India homepage layout. This project was created in **free time** to strengthen fundamental frontend skills..
 
 It focuses purely on **layout, structure, and visual design**.
 
@@ -14,7 +14,8 @@ It focuses purely on **layout, structure, and visual design**.
 
 ## 🖼️ Screenshot
 
-![Screenshot of the Amazon Homepage Layout Clone](screenshot.jpg)
+![Screenshot of the Amazon Homepage Layout Clone](nav-bar.png)
+![Screenshot of the Amazon Homepage Layout Clone](footer.png)
 
 > Make sure `screenshot.jpg` is uploaded to your repository and the path is correct.
 
@@ -26,7 +27,7 @@ This project is a high-fidelity visual and structural clone of the Amazon India 
 
 - **Pure HTML & CSS Layout:** Replicates the main sections, navigation bar, hero image area, and product grids.
 - **Visual Fidelity:** Focuses on matching the correct color palette, typography, spacing, and icon placement.
-- **Basic UI Interactivity:** Includes simple hover effects and menu animations using CSS and minimal JavaScript.
+- **Basic UI Interactivity:** Includes simple hover effects and menu animations using CSS 
 - **Static Project:** **Note:** This is purely a frontend layout. No backend logic, product data, or e-commerce functionality is implemented.
 
 ---
@@ -37,7 +38,7 @@ This project is a high-fidelity visual and structural clone of the Amazon India 
 | :--- | :--- |
 | **HTML5** | Core page structure and semantics. |
 | **CSS3** | Styling, layout using Flexbox and Grid, and creating the visual appearance. |
-| **JavaScript** | Implementing minor UI interactions (e.g., toggling the side menu). |
+
 
 ---
 
